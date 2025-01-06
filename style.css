@@ -89,3 +89,11 @@ body {
 .logo-footer {
     color: #FFFFFF;
 }
+.dz_2{
+    background: #02ff41;
+    max-width: 350px;
+    max-height: 220px;
+    padding: 15px 10px 20px 10px;
+    margin-bottom: 30px;
+    border: 2px dashed red;
+}
